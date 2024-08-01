@@ -14,7 +14,9 @@ graph RL
 ## การทดลองนำเข้า component จาก github
 
 ### 1.สร้าง ESP32 project ใหม่ "ไฟกระพริบด้วย component"
+
 1.1 ตั้งชื่อโปรเจค  `LED_Flash_with_component`
+
 1.2 สร้างไฟล์ idf_component.yml ขึ้นใน Main พร้อมใส่เนื้อหาต่อไปนี้
 
 ```yml
